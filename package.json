@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "name": "projeto_devnology_puppeteer",
+  "version": "1.0.0",
+  "description": "Projeto de webscraping usando puppeteer para devnology.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasantoniorodrigues1/webscraping_devnology_puppeteer.git"
+  },
+  "keywords": [
+    "webscraping"
+  ],
+  "author": "Elias Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliasantoniorodrigues1/webscraping_devnology_puppeteer/issues"
+  },
+  "homepage": "https://github.com/eliasantoniorodrigues1/webscraping_devnology_puppeteer#readme"
+}
